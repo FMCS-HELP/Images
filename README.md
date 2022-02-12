@@ -22,6 +22,8 @@
 
 ![Cloudflare 10](/custom-ip/cloudflare-10.png)
 
+![Cloudflare 11](/custom-ip/cloudflare-11.png)
+
 ## Freenom
 
 ![Freenom 1](/custom-ip/freenom-1.png)
